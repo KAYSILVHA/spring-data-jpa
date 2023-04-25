@@ -1,5 +1,6 @@
 package me.dio.academia.digital.entity;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

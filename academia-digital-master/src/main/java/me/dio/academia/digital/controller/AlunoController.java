@@ -1,5 +1,6 @@
 package me.dio.academia.digital.controller;
 
+
 import me.dio.academia.digital.entity.Aluno;
 import me.dio.academia.digital.entity.AvaliacaoFisica;
 import me.dio.academia.digital.entity.form.AlunoForm;
